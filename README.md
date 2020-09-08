@@ -19,7 +19,7 @@ This application is deployed on GitHub pages and does require any special tools 
 
 Upon running the application -- replace screenshots
 
-![app menu screen shot](https://github.com/taorman75/Employee_Management_System/blob/master/Assets/MainMenu.jpg)
+![app menu screen shot](https://github.com/taorman75/reactdirectorythree/blob/master/Public/directory.png)
 
 
 
